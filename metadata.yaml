@@ -1,11 +1,16 @@
 _repo: Dogs-as-home-companions-b-A-book-for-all-dog-lovers_72115
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72115-h/images/cover.jpg
 creator:
   author:
     agent_name: Hochwalt, Albert Frederick
     gutenberg_agent_id: '56543'
     url: http://www.gutenberg.org/2009/agents/56543
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72115#Dogs-as-home-companions-b-A-book-for-all-dog-lovers
 gutenberg_issued: '2023-11-13'
 identifiers:
   gutenberg: '72115'
